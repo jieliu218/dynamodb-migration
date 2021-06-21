@@ -1,0 +1,17 @@
+{
+  "name": "dynamodb-migration",
+  "version": "1.0.0",
+  "description": "DynamoDB migration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  },
+  "peerDependencies": {
+    "aws-sdk": "2.x"
+  }
+}
